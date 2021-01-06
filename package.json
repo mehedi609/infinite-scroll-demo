@@ -10,7 +10,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "prettier": "^2.0.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "react-infinite-scroll-component": "^5.0.4"
   },
   "scripts": {
